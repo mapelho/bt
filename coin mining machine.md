@@ -4,7 +4,7 @@ In the ever-evolving world of cryptocurrency, the concept of a coin mining machi
 
 The process of mining involves miners competing to solve cryptographic puzzles using high-powered hardware. This competition rewards miners with newly minted coins, making it a lucrative endeavor for those who invest in efficient mining equipment. However, it’s not just about purchasing a mining machine; factors such as electricity costs, cooling solutions, and market conditions significantly impact profitability.
 
-![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+!![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 One crucial aspect of mining is choosing the right cryptocurrency to focus on. For instance, Bitcoin mining requires Application-Specific Integrated Circuits (ASICs), while Ethereum can be mined using Graphics Processing Units (GPUs). The rise of cloud mining platforms has also made it easier for individuals to participate without owning physical hardware. Cloud mining allows users to rent mining power from remote data centers, reducing upfront costs and maintenance responsibilities.
 

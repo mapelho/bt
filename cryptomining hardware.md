@@ -16,7 +16,7 @@ When choosing cryptomining hardware, consider factors such as power consumption,
 
 In conclusion, selecting the right cryptomining hardware is essential for maximizing profits in the ever-evolving world of digital currency mining. Whether you opt for a GPU, ASIC, or FPGA, understanding the nuances of each can help you make informed decisions that align with your goals and resources. 
 
-![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+!![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 Keywords: cryptomining hardware, GPU mining, ASIC miner, FPGA mining, Bitcoin mining, cryptocurrency mining, passive income, hash rate, energy efficiency
 

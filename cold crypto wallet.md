@@ -4,7 +4,7 @@ In the ever-evolving world of blockchain technology and cryptocurrency, securing
 
 A cold crypto wallet is ideal for individuals who are interested in crypto mining or those looking to earn passive income through staking. By keeping your funds offline, you can mitigate the risks associated with hacking, which is a significant concern in the volatile crypto market. The image below illustrates a typical cold crypto wallet used by many enthusiasts.
 
-![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+!![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 When considering earning through crypto mining, it's essential to have a secure storage solution like a cold crypto wallet. Mining rigs require substantial investment, and the rewards earned should be safeguarded against potential threats. Similarly, staking provides another avenue for earning returns on your crypto holdings, but securing these assets is crucial to prevent unauthorized access.
 

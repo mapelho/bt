@@ -6,7 +6,7 @@ When evaluating a mining app like CryptoMiner Pro, users should consider factors
 
 However, not all mining apps are created equal. Scams often lure users with promises of quick riches but fail to deliver. To avoid falling victim to fraud, always verify the legitimacy of an app by checking user reviews, researching the company behind it, and ensuring proper security measures are in place. The image below highlights some key features of a reputable mining app.
 
-![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+!![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 Moreover, staying informed about **cryptocurrency trends** and market conditions is vital. For example, understanding the relationship between **Bitcoin price fluctuations** and mining profitability helps users make better decisions. Apps like CryptoMiner Pro often integrate real-time data analytics to assist miners in optimizing their strategies.
 
@@ -24,7 +24,7 @@ On the other hand, local mining requires investing in specialized equipment such
 
 To decide between cloud mining and local mining, consider variables like initial budget, technical expertise, and risk tolerance. Image below illustrates the setup of a typical home-based mining rig.
 
-![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+!![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 Another critical aspect to consider is **pool participation**. Joining a mining pool allows individual miners to combine resources and increase the likelihood of earning rewards. Popular pools include Slush Pool and AntPool, where participants share profits based on contributed hash power.
 

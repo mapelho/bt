@@ -6,6 +6,6 @@ One of the primary motivations behind mining is the potential for **cryptocurren
 
 The **blockchain mining process** itself involves several steps, starting from collecting pending transactions into blocks. Miners then use powerful hardware, such as GPUs or ASICs, to solve cryptographic puzzles. Once solved, the block is added to the blockchain, making it immutable and transparent. This decentralized verification mechanism not only strengthens trust but also creates opportunities for those looking to capitalize on **crypto earning potentials**.
 
-[Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 As blockchain technology continues to mature, innovations like **smart contracts** and **decentralized finance (DeFi)** further enhance the utility of crypto transaction verification. These developments underscore the importance of understanding and participating in the ecosystem to maximize **cryptocurrency mining profits** while contributing to the broader goals of decentralization and financial inclusivity.

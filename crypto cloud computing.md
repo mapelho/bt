@@ -6,7 +6,7 @@ Key terms like "cloud mining," "crypto mining," and "decentralized mining" are c
 
 Moreover, the rise of crypto cloud computing aligns with the growing emphasis on sustainability within the blockchain industry. Traditional mining setups often require significant amounts of electricity due to their reliance on high-performance GPUs or ASIC miners. In contrast, cloud mining offers a more environmentally friendly alternative by optimizing resource utilization and reducing waste.
 
-[Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 As more individuals seek ways to earn passive income through crypto mining, platforms offering cloud-based solutions continue to proliferate. These services provide an accessible entry point for newcomers while maintaining profitability for seasoned miners. Additionally, innovations such as proof-of-stake (PoS) mechanisms further enhance the appeal of cloud mining by minimizing energy-intensive processes associated with proof-of-work (PoW).
 

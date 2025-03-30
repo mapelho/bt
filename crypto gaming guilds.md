@@ -8,6 +8,6 @@ The integration of DeFi protocols into gaming guilds further enhances their appe
 
 As illustrated in the image below, the rise of crypto gaming guilds represents a convergence of technological innovation and economic opportunity. By leveraging blockchain's inherent advantages, these guilds empower individuals worldwide to participate in a burgeoning digital economy. Whether you're an avid gamer or a crypto enthusiast, joining a gaming guild offers a unique pathway to unlock new possibilities in the metaverse.
 
-![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+!![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 In conclusion, crypto gaming guilds represent more than just a trend; they symbolize the future of gaming and digital asset ownership. Through collaborative efforts and innovative solutions, these guilds continue to redefine how people interact with virtual worlds and generate wealth through blockchain-based platforms. As the ecosystem evolves, expect to see even greater integration of cutting-edge technologies and expanded opportunities for gamers everywhere.
