@@ -6,6 +6,6 @@ Bitcoin mining is a process through which new bitcoins are created and transacti
 
 For those interested in earning passive income via cryptocurrency mining, Coinbase offers several tools and features designed to simplify the experience. For instance, users can explore decentralized finance (DeFi) applications or engage with yield farming strategies that mimic aspects of mining profitability. Additionally, Coinbase Wallet allows users to store private keys securely while accessing advanced features like NFTs and dApps.
 
-![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+!![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 In summary, Coinbase serves as both an entry point for newcomers to the crypto space and a sophisticated toolset for seasoned investors looking to maximize returns through innovative methods like mining. Whether you're aiming to directly mine cryptocurrencies or leverage other strategies tied to blockchain technology, Coinbase provides valuable resources to help achieve your goals. Remember, however, that success in mining often depends on factors such as hardware efficiency, electricity costs, and market conditions—so always conduct thorough research before diving in!

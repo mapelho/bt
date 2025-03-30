@@ -6,6 +6,6 @@ Mining pools work by aggregating the hashing power of multiple machines. Each pa
 
 For those aiming to maximize profits from **cryptocurrency mining**, joining a mining pool offers stability and predictability. However, it’s essential to choose reputable pools that offer fair distribution models and low fees. Popular mining pools include Antpool, F2Pool, and Slush Pool, all of which cater to miners worldwide. Additionally, understanding concepts like **block rewards**, **difficulty adjustments**, and **network hashrate** can help newcomers make informed decisions.
 
-[Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 Joining a mining pool not only boosts your chances of earning Bitcoin but also fosters a sense of community within the **cryptocurrency ecosystem**. As the demand for decentralized finance (DeFi) grows, leveraging mining pools remains an attractive option for individuals looking to capitalize on the potential of digital currencies.

@@ -8,7 +8,7 @@ Mining cryptocurrencies like Bitcoin, Ethereum, or even lesser-known altcoins re
 
 For those looking to diversify their investment portfolio, **STGEnergy** presents an opportunity to earn passive income through **staking** and **yield farming**. These practices allow users to lock up their digital assets and receive rewards over time. With its user-friendly interface and robust support system, STGEnergy ensures that miners have access to all the tools they need to succeed.
 
-[Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 As the demand for **virtual currency mining** continues to grow, staying ahead of the curve is essential. Whether you're interested in **STGEnergy**, **Bitcoin mining**, or exploring other blockchain opportunities, now is the perfect time to dive into this exciting field. Embrace the future of finance and discover how you can harness the power of digital currencies to build wealth!
 
@@ -26,6 +26,6 @@ Another key aspect of STGEnergy is its integration of **AI-driven analytics**. B
 
 For those seeking additional avenues to enhance their earnings, STGEnergy supports **decentralized finance (DeFi)** initiatives such as **staking** and **yield farming**. These activities enable users to earn interest on their holdings while contributing to the stability of the blockchain. Furthermore, the platform's **mobile app** allows users to manage their portfolios conveniently from anywhere in the world.
 
-[Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 With its innovative features and forward-thinking approach, STGEnergy stands at the forefront of the **virtual currency mining** revolution. Join the ranks of successful miners today and unlock the full potential of your digital assets!

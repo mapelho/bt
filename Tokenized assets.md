@@ -6,6 +6,6 @@ The integration of tokenized assets into blockchain networks also brings about o
 
 Moreover, the rise of decentralized exchanges (DEXs) has facilitated seamless trading of tokenized assets without intermediaries. Platforms like Uniswap or SushiSwap enable users to swap tokens efficiently while earning passive income via liquidity provision. Additionally, smart contracts automate various processes, ensuring trustless execution of agreements between parties involved in asset tokenization. 
 
-![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+!![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 Investors should remain vigilant regarding regulatory frameworks surrounding tokenized assets since jurisdictions may impose restrictions on their issuance and trading. However, when managed responsibly, tokenized assets represent an exciting avenue for wealth creation within the broader context of virtual currency ecosystems. Whether you're exploring opportunities in mining profitability or seeking diversified investment portfolios, understanding tokenization principles will undoubtedly empower your journey into this dynamic space.
