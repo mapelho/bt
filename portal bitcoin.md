@@ -8,7 +8,7 @@ Another important aspect of Portal Bitcoin is its emphasis on **sustainable mini
 
 For those looking to maximize their earnings, Portal Bitcoin provides valuable insights into **market trends** and **profitability calculators**. These tools help users make informed decisions about which cryptocurrencies to mine and when to sell their mined coins for optimal returns. Additionally, the platform supports multiple mining algorithms, allowing users to diversify their mining activities and mitigate risks associated with reliance on a single coin or algorithm.
 
-[Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 As the crypto market continues to evolve, **Portal Bitcoin** remains at the forefront of innovation, offering a comprehensive solution for anyone seeking to capitalize on the opportunities presented by **bitcoin mining** and other digital currencies. Whether you're a newcomer or an experienced miner, Portal Bitcoin provides the tools and support needed to achieve success in this exciting field.
 
@@ -24,7 +24,7 @@ Moreover, Portal Bitcoin places a strong emphasis on **community engagement**. T
 
 To further enhance user experience, Portal Bitcoin integrates sophisticated **profitability tracking tools**. These tools provide real-time data on mining efficiency, coin prices, and network difficulty levels. Armed with this information, miners can make data-driven decisions regarding which cryptocurrencies to mine and when to sell their mined coins. Additionally, the platform supports **multi-currency mining**, allowing users to diversify their portfolios and reduce exposure to volatility.
 
-[Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 Portal Bitcoin's dedication to excellence extends beyond technical features; it also prioritizes security and transparency. Users can rest assured knowing their assets are protected by robust encryption protocols and regular audits. Furthermore, the platform maintains open communication channels, ensuring that any concerns or issues are addressed promptly.
 

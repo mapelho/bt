@@ -6,7 +6,7 @@ Mining Dash coin primarily relies on the Proof-of-Work consensus mechanism, whic
 
 One crucial aspect of mining Dash is understanding block rewards. Currently, miners receive 2.0098 DASH per block mined, with this reward halving approximately every 22 months. This halving mechanism ensures scarcity, similar to Bitcoin, and encourages miners to stay engaged in the network. Additionally, decentralized finance (DeFi) enthusiasts often consider Dash due to its innovative features, which enhance financial inclusivity.
 
-In conclusion, mining Dash coin offers a lucrative opportunity for tech-savvy individuals seeking entry into the crypto mining industry. With proper investment in hardware and knowledge about mining algorithms, anyone can participate in this rewarding endeavor. ![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+In conclusion, mining Dash coin offers a lucrative opportunity for tech-savvy individuals seeking entry into the crypto mining industry. With proper investment in hardware and knowledge about mining algorithms, anyone can participate in this rewarding endeavor. !![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 ---
 
@@ -18,4 +18,4 @@ Understanding the concept of *hash rate* is vital when mining Dash. Hash rate re
 
 Additionally, miners should be aware of the importance of electricity costs. Efficient cooling systems and optimal energy usage are critical factors that determine profitability. Decentralized finance (DeFi) platforms also recognize Dash's potential, integrating it into various yield farming and staking opportunities.
 
-By leveraging these strategies and staying informed about market trends, miners can maximize their earnings from Dash coin mining. ![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+By leveraging these strategies and staying informed about market trends, miners can maximize their earnings from Dash coin mining. !![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)

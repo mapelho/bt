@@ -4,7 +4,7 @@ In the ever-evolving world of blockchain technology, new exchanges are emerging 
 
 A prime example is the recent launch of an innovative exchange that supports advanced mining algorithms. This platform allows users to mine various altcoins directly from their accounts, leveraging the power of **Proof-of-Work (PoW)** protocols. The integration of **smart contracts** further enhances the user experience by automating transactions and ensuring secure payouts. 
 
-[Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
+![Image](https://github.com/user-attachments/assets/b6e7b7a2-655e-4d44-8baa-20c566a3cb65)
 
 Moreover, these new exchanges emphasize community-driven growth. Through features such as **stake pools** and **yield farming**, participants can earn passive income while supporting network security. The rise of **ASIC-resistant algorithms** ensures that even individual miners have a chance to compete in the market, fostering inclusivity in **cryptocurrency mining**.
 
